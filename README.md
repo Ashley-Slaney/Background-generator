@@ -1,2 +1,2 @@
-# https://ashley-slaney.github.io/Background-generator
+# https://ashley-slaney.github.io/Background-generator/.
 Background-generator
